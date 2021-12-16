@@ -5,4 +5,13 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
+nav:
+    - About: 'about.md'
+    - Specification: 
+        - 'Basic tags': 'index.md'
+        - 'Specific tags': 'attributes.md'
+        - 'Lists for referencing': 'referencing'
+    - Workflow: 'workflow.md'
+    
+    
 
