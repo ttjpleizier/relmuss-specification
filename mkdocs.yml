@@ -3,4 +3,6 @@ theme:
     name: readthedocs
 markdown_extensions:
   - footnotes
+  - attr_list
+  - md_in_html
 
