@@ -25,9 +25,9 @@ As a general rule, each instance of speech and music is tagged following the spe
 # Genre
 Genre-tags label the differences between *music* (instrumental music or vocal sound, such as singing); *speech* (spoken discourse, male or female voice); *silence* (all parts of the MP3-file that do not contain either speech or music.)
 
-Automated labelling can be done by using speech-music segmentation software, such as *inaSpeechSegmenter*.[^ina] For *relMUSS* these labels are too general, since both music and speech in church services indicate various genres.
+Automated labelling can be done by using speech-music segmentation software, such as *[inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)*.[^ina] For *relMUSS* these labels are too general, since both music and speech in church services indicate various genres.
 
-[^ina]: https://github.com/ina-foss/inaSpeechSegmenter
+[^ina]: https://ieeexplore.ieee.org/document/8461471
 
 All segments are labelled with only *ONE* tag that belongs to the class 'genre'. Thus, the tags of genre should be understood as mutually exclusive.
 
