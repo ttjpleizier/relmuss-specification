@@ -1,4 +1,6 @@
 site_name: relMUSS
 theme:
     name: readthedocs
+markdown_extensions:
+  - footnotes
 
