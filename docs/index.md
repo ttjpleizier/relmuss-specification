@@ -27,7 +27,7 @@ Genre-tags label the differences between *music* (instrumental music or vocal so
 
 Automated labelling can be done by using speech-music segmentation software, such as *[inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)*.[^ina] For *relMUSS* these labels are too general, since both music and speech in church services indicate various genres.
 
-[^ina]: https://ieeexplore.ieee.org/document/8461471
+[^ina]: [https://ieeexplore.ieee.org/document/8461471](https://ieeexplore.ieee.org/document/8461471)
 
 All segments are labelled with only *ONE* tag that belongs to the class 'genre'. Thus, the tags of genre should be understood as mutually exclusive.
 
