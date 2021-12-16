@@ -8,7 +8,7 @@ markdown_extensions:
 nav:
     - About: 'about.md'
     - Specification: 
-        - 'Basic tags': 'index.md'
+        - 'Basic tags': 'basic.md'
         - 'Specific tags': 'attributes.md'
         - 'Lists for referencing': 'referencing'
     - Workflow: 'workflow.md'
