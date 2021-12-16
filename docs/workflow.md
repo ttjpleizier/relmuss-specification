@@ -17,7 +17,7 @@ The red numbers in the picture refer to the steps 2-4 below.
 7. Export the new relMUSS labels to a .txt file. First, remove the Speech Segmenter track to make sure only the relMUSS track with newly annotated segments is visible in Audacity. Next: file > export > export labels. An example of an exported txt-file with relMUSS annotation can be found below.
 
 
-![Audacity-example; part of the relMUSS label-track.](images/labels-testkerkdienst-audacity-20200927-nrs.png)
+![Audacity-example; part of the relMUSS label-track.](../images/labels-testkerkdienst-audacity-20200927-nrs.png)
 
 [^macos]: For macOS open Audacity in low resolution; select 'low resulation' in the 'display info' of the application.
 [^stereo]: In case the audio file consists of two tracks (stereo): use the same dropdown menu and select 'split stereo/mono' and remove one of the tracks from the view.
