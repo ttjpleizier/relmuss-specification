@@ -1,6 +1,4 @@
 site_name: relMUSS
 theme:
     name: readthedocs
-nav:
-    - 'index.md'
-    - 'about.md'
+
