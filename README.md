@@ -5,6 +5,10 @@ relMUSS is a specification for annotating audio recordings of liturgical service
 
 The specification is part of the larger research project 'Computational Religious Rhetoric and Ritual'. The project is hosted by the [Protestant Theological University](https://www.pthu.nl), The Netherlands.
 
+Read the documentation here: 
+
+https://relmuss-specification.readthedocs.io/en/latest/#
+
 
 <!--
 Template for the Read the Docs tutorial
