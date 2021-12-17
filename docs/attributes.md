@@ -8,7 +8,7 @@ All segments are labelled with additional attributes according to the following 
     b) refers to an item on a list with biblical texts, with psalms or hymns, or with liturgical scripts (`reference`);
     c) contains sensitive material as defined in GDPR (`sensitive`).
 
-## `ref:`
+## References: `ref:`
 Various genres contain meaningful references, such as `sp-r` and `mu-s`.
 
 Use this tag only for segments that contain the actual hymn (music) or the actual reading (speech). Do NOT use this tag for segments that invite to sing or that announce a reading.
@@ -57,14 +57,16 @@ Congregational singing is usually taken from a particular selection of Psalms an
 
 Disclaimer: When meta-data is collected, annotation can be simplified. This is *currently* not the case. Often churches only use one hymnbook. In those cases it would be sufficient to add the name of the hymnbook to the meta-data of the file and the numbers in the references follow the meta-data. Hence annotation proceeds as follows: only include name of the hymnbook in the annotation if the hymnbook is NOT included in the meta-data of the file.
 
-## `youth`
+## Special tags
+
+### `youth`
 Use this attribute in combination with a genre if children and youth in the audience are addressed explicitly and intentionally. Hence, when a reading, prayer, sermon or song is specifically announced as 'for children'.
 
 For instance, a sermon for children combines tags `sp-s` and `youth`; likewise a children's song combines tags `mu-s` and `youth`.
 
 Like `ref` use `youth` for the actual song or sermon, not for the preceding announcement.
 
-## `sensitive`
+### `sensitive`
 Use this label if the segment contains sensitive personal data as defined by  GDPR, the European regulations for data protection.[^gdpr] Segments in the corpus are coded `sensitive` when they contain references to natural persons or personal information of individuals or groups.
 
 *Note*: Apply the tag not for a each single individual instance (too time-consuming), but create larger segments that contain a series of references to identifiable natural persons.
