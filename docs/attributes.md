@@ -8,7 +8,7 @@ All segments are labelled with additional attributes according to the following 
     b) refers to an item on a list with biblical texts, with psalms or hymns, or with liturgical scripts (`reference`);
     c) contains sensitive material as defined in GDPR (`sensitive`).
 
-## References: `ref:`
+## `ref:`
 Various genres contain meaningful references, such as `sp-r` and `mu-s`.
 
 Use this tag only for segments that contain the actual hymn (music) or the actual reading (speech). Do NOT use this tag for segments that invite to sing or that announce a reading.
