@@ -6,7 +6,7 @@ markdown_extensions:
   - attr_list
   - md_in_html
 nav:
-    - About: 'about.md'
+    - About: 'index.md'
     - Specification: 
         - 'Basic tags': 'basic.md'
         - 'Specific tags': 'attributes.md'
