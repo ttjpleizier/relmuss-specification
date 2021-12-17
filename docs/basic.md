@@ -1,6 +1,3 @@
-# Introduction
-The specification *relMUSS* aims to annotate religious music, silence and speech in church liturgy and preaching for machine learning purposes.
-
 # The relMUSS specification
 The annotation for religious language in Christian worship and preaching is based upon three different types of segments:
 
