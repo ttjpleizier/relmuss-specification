@@ -24,11 +24,11 @@ Bible readings refer to biblical books, chapters and verses in the Bible. Readin
 
 *Rule* Biblical books are abbrevated according to the list in the appendix. References are constructed by 
 
-(a) between two to four *lowercase* letters of the English name of the book, 
-(b) followed by a `.` (dot), 
-(c) followed by the number of the chapter, 
-(d) another `.` (dot) and 
-(e) the starting verse of the reading. The range of verses is NOT annotated.
+a. between two to four *lowercase* letters of the English name of the book, 
+b. followed by a `.` (dot), 
+c. followed by the number of the chapter, 
+d. another `.` (dot) and 
+e. the starting verse of the reading. The range of verses is NOT annotated.
 
 *Example* An annotated reading in the Dutch translation *NBV* from the first book of the Corinthians, chapter 1, from vers 1 to 14 has the following three labels:
 
