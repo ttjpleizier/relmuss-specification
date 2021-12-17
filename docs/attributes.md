@@ -22,13 +22,13 @@ Apply to the following liturgical genres:
 ### Bible readings (`sp-r`)
 Bible readings refer to biblical books, chapters and verses in the Bible. Readings are taken from a particular translation. Lists of abbreviations of biblical books and translations can be found in Appendix A.
 
-*Rule* Biblical books are abbrevated according to the list in the appendix. References are constructed by 
+*Rule* Biblical books are abbrevated according to the list in the appendix. References are constructed  
 
-a. between two to four *lowercase* letters of the English name of the book, 
-b. followed by a `.` (dot), 
-c. followed by the number of the chapter, 
-d. another `.` (dot) and 
-e. the starting verse of the reading. The range of verses is NOT annotated.
+- between two to four *lowercase* letters of the English name of the book, 
+- followed by a `.` (dot), 
+- followed by the number of the chapter, 
+- another `.` (dot) and 
+- the starting verse of the reading. The range of verses is NOT annotated.
 
 *Example* An annotated reading in the Dutch translation *NBV* from the first book of the Corinthians, chapter 1, from vers 1 to 14 has the following three labels:
 
