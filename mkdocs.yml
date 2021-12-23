@@ -5,9 +5,6 @@ markdown_extensions:
   - footnotes
   - attr_list
   - md_in_html
-plugins:
-  - search
-  - pdf-export
 nav:
     - About: 'index.md'
     - Specification: 
