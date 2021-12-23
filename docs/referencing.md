@@ -43,7 +43,7 @@ The following liturgical scripts can be used. If necessary, new types should be 
 
 ### Sacraments and other ritual practices
 
-* `ref:holy-communion`: forms, prayers (eucharistic prayers) and other scripted language concerning the celebration of the Lord's Supper, Holy Communion or the Eucharist
+* `ref:communion`: forms, prayers (eucharistic prayers) and other scripted language concerning the celebration of the Lord's Supper, Holy Communion or the Eucharist
 * `ref:baptism`: liturgical scripts, including prayers and forms, with respect to baptism
 * `ref:ordination`: every type of `s:l` related to ordination of ministers, but also blessings, welcoming and farewell of elders and deacons.
 
