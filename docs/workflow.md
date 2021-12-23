@@ -4,7 +4,7 @@
 
 1. Install [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter) for automatic segmentation. 
 2. Run `ina_speech_segmenter.py` with options `-d=smn` and `-g=false`. Results in output.csv.
-3. Convert output.csv to output.txt (format: Audacity label-tracks). An example of an R-script for conversion is added: prepare labels for Audacity.
+3. Convert output.csv to output.txt (format: Audacity label-tracks). An example of an R-script for conversion is [added](https://github.com/ttjpleizier/relmuss-specification/blob/main/src/CSV2TXT-audacity.R).
 
 ## Phase 2 - Manual annotation in Audacity
 The red numbers in the picture refer to the steps 2-4 below.
