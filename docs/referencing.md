@@ -16,7 +16,7 @@ Note:
 
 **Bible translations**:
 
-| Bible translation            | Abbreviation |
+| Bible translation            | Label        |
 |------------------------------|--------------|
 | Nieuwe bijbelvertaling       | `ref:nbv`    |
 | Herziene Statenvertaling     | `ref:hsv`    |
@@ -53,7 +53,7 @@ List with hymnbooks and hyms, derived from the website [Kerkliedwiki](https://ke
 
 See the table below for he most commonly used hymnals, their abbrevation and the range of numbers.
 
-| Hymnal                  | Abbreviation | Range of numbers              |
+| Hymnal                  | Label        | Range of numbers              |
 |-------------------------|--------------|-------------------------------|
 | Liedboek (2013)         | `ref:lb`     | 1:1016                        |
 | Liedboek voor de kerken | `ref:lvdk`   | p1:p150 (Psalmen); 1:491      |
