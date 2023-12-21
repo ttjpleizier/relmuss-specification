@@ -58,7 +58,7 @@ Note: the segment `sp-s` usually starts with addressing the congregation with a 
 
 
 ### Prayer: `sp-p`
-Addressed to the transcendent: 'you' refers to the divine.
+Addressed to the transcendent (i.e. not the audience present): 'you' refers to the divine.
 
 Note: When there is longer silence within the prayer (longer than 3 seconds), the prayer is split into three segments. The silence is not annotated, the two surrounding segments are both tagged with `sp-p`.
 
